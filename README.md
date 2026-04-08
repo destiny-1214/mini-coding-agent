@@ -1,3 +1,6 @@
+https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+
+
 &nbsp;
 # Mini-Coding-Agent
 
